@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "210996918715",
+    "project_id": "automatic-ace-400605",
+    "storage_bucket": "automatic-ace-400605.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210996918715:android:81d8aae4eb2238c8f42c9e",
+        "android_client_info": {
+          "package_name": "firebase_option.dart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5LhcDRzKGrHa_0wicUUTuWWvfam5-9eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
